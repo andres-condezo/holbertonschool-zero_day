@@ -1,8 +1,15 @@
-# Vagrant
+# vi
 
-This project it's about virtual machines.
+This project it's about the text editor Vi.
 
-## Tasks :
+## Tasks:
 
-- **0. Create and setup your Git and Github account**
-- - - **1. Hello Ubuntu**
+- **0. Inserting**
+- **1. Cutting**
+- **2. Pasting**
+- **3. Undoing**
+- **4. Exiting**
+- **5. Beginning of the line**
+- **6. End of the line**
+- **7. Line 32**
+- **8. Delete current and previous line**
